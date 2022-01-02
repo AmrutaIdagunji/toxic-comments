@@ -2,7 +2,7 @@
 
 The dataset is available in Kaggle - https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview
 
-A toxic comment can be anything that's rude, insulting, threatening or disrespectful. There are more subtypes in these toxic comments are pointed towards a particular race (asian, dispanic, latino etc), gender (male, female, bisexual, trans etc.) and sexual orientation (gay, lesbian, transgender etc.).
+A toxic comment can be anything that's rude, insulting, threatening or disrespectful. Toxic comments can be more specifically grouped or pointed towards a particular race (asian, hispanic, latino etc), gender (male, female, bisexual, trans etc.) and sexual orientation (gay, lesbian, transgender etc.).
 
 The ipynb file imports the test set from google drive. Since the training data is huge, saving it in drive and accessing it in jupyter notebook wasnt successful. NOTE: To run the file, make sure to download the dataset and provide the correct path in the cell.
 
